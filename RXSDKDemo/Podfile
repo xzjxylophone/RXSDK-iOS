@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/xzjxylophone/RXSpecs.git'
+
+platform :ios, '8.0'
+
+
+target 'RXSDKDemo'
+     pod 'RXCategory'
+	 pod 'RXSDK'
+
+
+
+inhibit_all_warnings!

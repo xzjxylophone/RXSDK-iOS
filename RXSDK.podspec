@@ -6,10 +6,10 @@ Pod::Spec.new do |s|
   s.version  = "0.2"
   s.license  = "MIT"
   s.summary  = "RXSDK is a framework"
-  s.homepage = "https://github.com/xzjxylophone/RXSDK-iOS.git"
+  s.homepage = "https://github.com/xzjxylophone/RXSDK-iOS"
   s.author   = { 'Rush.D.Xzj' => 'xzjxylophone@gmail.com' }
   s.social_media_url = "http://weibo.com/xzjxylophone"
-  s.source   = { :git => 'http://10.2.250.21/xuzhijun/HDR-SDK-iOS.git', :tag => "v#{s.version}" }
+  s.source   = { :git => 'https://github.com/xzjxylophone/RXSDK-iOS.git', :tag => "v#{s.version}" }
   s.description = %{
         RXSDK is a framework.
   }
