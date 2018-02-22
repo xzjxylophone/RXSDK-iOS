@@ -2,7 +2,7 @@
 
 
 Pod::Spec.new do |s|
-  s.name     = "RXSDK"
+  s.name     = "RXTmpSDK"
   s.version  = "0.2"
   s.license  = "MIT"
   s.summary  = "RXSDK is a framework"

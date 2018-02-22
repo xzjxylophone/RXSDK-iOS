@@ -6,7 +6,7 @@ platform :ios, '8.0'
 
 target 'RXSDKDemo'
      pod 'RXCategory'
-	 pod 'RXSDK'
+	 pod 'RXTmpSDK'
 
 
 
