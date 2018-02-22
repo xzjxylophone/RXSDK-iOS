@@ -1,0 +1,6 @@
+framework module RXSDK {
+  umbrella header "RXSDK.h"
+
+  export *
+  module * { export * }
+}
