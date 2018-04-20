@@ -8,7 +8,19 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RXSDK : NSObject
+@interface RXSDK : NSObject {
+    
+@private
+    NSString *privateStr;
+@public
+    NSString *publicStr;
+@protected
+    NSString *protectedStr;
+    @package
+    NSString *packageStr;
+    
+    
+}
 
 + (UIView *)rxsdkView;
 
